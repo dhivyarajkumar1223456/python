@@ -1,0 +1,7 @@
+message= "happy birthday"
+print(len(message))
+print(message.find("2"))
+print(message.count("a"))
+print(message.replace("a","r"))
+print(message.isdigit())
+print(message*10)
