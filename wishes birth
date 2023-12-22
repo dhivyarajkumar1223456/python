@@ -1,0 +1,4 @@
+name= "ram"
+message= "happy birthday"
+print(message.title())
+print(message+" "+name)
