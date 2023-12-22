@@ -1,0 +1,4 @@
+name="abi"
+print("hi"+ name)
+name="john"
+print("hi"+ name)
